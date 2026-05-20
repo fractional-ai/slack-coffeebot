@@ -1,0 +1,12 @@
+# People to skip in this week's pairing.
+# One entry per line. Lines starting with `#` and blank lines are ignored.
+#
+# Each entry can be:
+#   - A Slack user ID, e.g. U01ABC23DEF
+#   - A display name or real name, e.g. jane.doe  or  Jane Doe
+#     (case-insensitive, optional leading @, no spaces required for handles)
+#
+# Examples:
+# @jane.doe        # OOO until Friday
+# John Smith       # parental leave
+# U01ABC23DEF      # by user ID
