@@ -130,3 +130,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local secrets
+credentials.json
+token.json
+
+# Editor swap files
+*.swp
